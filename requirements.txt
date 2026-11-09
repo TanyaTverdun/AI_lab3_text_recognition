@@ -11,3 +11,4 @@ easyocr==1.7.2
 paddlepaddle==3.3.1
 paddleocr==3.4.1
 ipykernel
+pillow-heif
