@@ -219,5 +219,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-data/*.png
+data/
 figures/
+corpus.txt
